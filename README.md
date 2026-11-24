@@ -6,7 +6,7 @@ This sample demonstrates how to freeze columns in both left and right directions
 
 This is a Blazor web application that showcases the column freezing feature of the Blazor DataGrid component. The sample displays a data-rich grid with columns frozen at both the left and right edges, allowing users to scroll horizontally while maintaining visibility of critical columns like Order ID and Ship Country.
 
-### Key Features
+### Key features
 
 - **Left Freeze**: Lock columns on the left side of the grid (e.g., Order ID)
 - **Right Freeze**: Lock columns on the right side of the grid (e.g., Ship Country)
@@ -49,6 +49,6 @@ dotnet run
 
 ## References
 
-**Documentation**: https://blazor.syncfusion.com/documentation/datagrid/frozen-column
+**Documentation**: https://help.syncfusion.com/grid-sdk/blazor/data-grid/frozen-column
 
 **Online example**: https://blazor.syncfusion.com/demos/datagrid/frozen-rows?theme=fluent2
